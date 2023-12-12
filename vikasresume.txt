@@ -1,0 +1,7 @@
+                                                                   Resume
+Name:vikas
+DOB:24/12/2004
+collage:Gpt lingasugar
+Qualifications:passed 10th board exam scored 82%currently studying in diplom computer science and engg 5th semester
+hobbies:reading books,social media,play with friends
+skills:python develoment,database development
